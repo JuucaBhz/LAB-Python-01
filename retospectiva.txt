@@ -1,0 +1,22 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+-- De 3 a 4 horas 
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+--Terminado, se completo cada punto correctamente
+
+
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+--Hacer lo de las API al principio no se comprendia bien pero luego de entenderse se pudo hacer
+
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+--No saber como funcionaba una API dentro del codigo, vi un video que lo explicaba y mostraba usos y solo lo adapte a lo que pedia el ejercicio 3
+
+
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+--Trabaje solo y pues para mejorar los resultados lo mejor seria practicar lo de la clase e investigar un poco mas por cuenta propia
+
+
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+"Aprende a usar APIS en tus proyectos de Python + mini-PROYECTO con API de pokemon en Python"
+https://www.youtube.com/watch?v=ibBAoNq0tl8
